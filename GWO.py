@@ -1,4 +1,6 @@
 ## Farzad Zandi, 2023.
+# Selecting best classifier.
+# Selecting best classifer while selecting features.
 #  Feature selection by Gray wolf Optimization algorithm.
 import math
 import numpy as np
@@ -18,12 +20,13 @@ import lightgbm as LightGBM
 from sklearn.linear_model._ridge import RidgeClassifier
 from sklearn.linear_model import Perceptron
 from sklearn.ensemble._bagging import BaggingClassifier
-
 print("===================================================")
 print("Farzad Zandi, 2023...")
+print("Selecting best classifier.")
+print("Selecting best classifer while selecting features.")
 print("feature selection by gray wolf optimization algorithm...")
 print("Loading data...")
-data = pd.read_csv('D:/Temp/new/data/leukemia.csv', header= None)
+data = pd.read_csv('/Data/leukemia.csv', header= None)
 N = data.shape[1]-1
 label = data.iloc[:,N]
 data = data.drop(data.columns[N], axis=1)
@@ -232,4 +235,4 @@ for t in range(maxIter):
 idx = np.where(np.array(alphaPosition)==1)[0]
 results = pd.DataFrame(idx)
 results[' Best Global'] = alphaScore
-results.to_csv("D:/Temp/new/Results/GWO/Leukemia/knn/knn10_leukemia_WGO5010.csv")
+results.to_csv("/Results/GWO/Leukemia/knn/knn10_leukemia_WGO5010.csv")
