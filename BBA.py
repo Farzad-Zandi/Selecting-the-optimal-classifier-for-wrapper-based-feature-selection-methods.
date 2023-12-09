@@ -1,4 +1,6 @@
 ## Farzad Zandi, 2023.
+# Selecting best classifier.
+# Selecting best classifer while selecting features.
 #  Feature selection by binary Bat algorithm.
 import math
 import numpy as np
@@ -21,9 +23,11 @@ from sklearn.ensemble._bagging import BaggingClassifier
 
 print("===================================================")
 print("Farzad Zandi, 2023...")
+print("Selecting best classifier.")
+print("Selecting best classifer while selecting features.");
 print("feature selection by binary bat algorithm...")
 print("Loading data...")
-data = pd.read_csv('D:/Temp/new/data/prostate.csv', header= None)
+data = pd.read_csv('Data/prostate.csv', header= None)
 N = data.shape[1]-1
 label = data.iloc[:,N]
 data = data.drop(data.columns[N], axis=1)
@@ -171,7 +175,6 @@ for h in range(10):
         # clfProbs = rouletteWheel(clfProbs, FitLocal, clfSelection[t-1])
         for i in range(nBats):
             # acc, clf = cost(X[i,:], clfProbs,i)
-
             acc = cost1(X[i,:])
             FitLocal[i] = acc
             # clfSelection[t,i] = clf
@@ -208,19 +211,16 @@ for h in range(10):
             t = maxIter
         # print(f"Accuracy in iteration {t+1} is {np.round(max(FitLocal)*100,2)}, by {clfs[int(clfSelection[t,np.argmax(FitLocal)])]} classiffier.")
         print(f'Accuracy in iteration {t+1} is: {np.round(gFit*100,2)}')
-
         # probs[t] = clfProbs
     # print(f"Global accuracy: {gFit}")
     # print(f"Best positions : {xHat}")
     idx = np.where(np.array(xHat)==1)[0]
     nFit[h] = len(idx)
     res[h] = gFit
-
 results = pd.DataFrame(nFit)
 results['ACC'] = res
 
 # results['Best Classifier'] = bestClf
 # probs = pd.DataFrame(probs)
-# probs.to_csv("D:/Temp/new/Results/BBA/prostate/probs10_Prostate_BBA5010.csv")
-
-results.to_csv("D:/Temp/new/Results/BBA/prostate/clf/Bagging_prostate_BBA5010.csv")
+# probs.to_csv("/Results/BBA/prostate/probs10_Prostate_BBA5010.csv")
+results.to_csv("/Results/BBA/prostate/clf/Bagging_prostate_BBA5010.csv")
