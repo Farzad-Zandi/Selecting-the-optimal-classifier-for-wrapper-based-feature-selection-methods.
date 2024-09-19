@@ -1,6 +1,6 @@
 ## Farzad Zandi, 2023.
-# Selecting best classifier.
-# Selecting best classifer while selecting features.
+# Selecting the optimal classifier.
+# Selecting the optimal classifer while selecting features.
 #  Feature selection by Gray wolf Optimization algorithm.
 import math
 import numpy as np
@@ -22,8 +22,8 @@ from sklearn.linear_model import Perceptron
 from sklearn.ensemble._bagging import BaggingClassifier
 print("===================================================")
 print("Farzad Zandi, 2023...")
-print("Selecting best classifier.")
-print("Selecting best classifer while selecting features.")
+print("Selecting the optimal classifier.")
+print("Selecting the optimal classifer while selecting features.")
 print("feature selection by gray wolf optimization algorithm...")
 print("Loading data...")
 data = pd.read_csv('/Data/leukemia.csv', header= None)
