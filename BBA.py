@@ -23,8 +23,8 @@ from sklearn.ensemble._bagging import BaggingClassifier
 
 print("===================================================")
 print("Farzad Zandi, 2023...")
-print("Selecting best classifier.")
-print("Selecting best classifer while selecting features.");
+print("Selecting the optimal classifier.")
+print("Selecting the optimal classifer while selecting features.");
 print("feature selection by binary bat algorithm...")
 print("Loading data...")
 data = pd.read_csv('Data/prostate.csv', header= None)
