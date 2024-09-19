@@ -1,6 +1,6 @@
 ## Farzad Zandi, 2023.
-# Selecting best classifier.
-# Selecting best classifer while selecting features.
+# Selecting the optimal classifier.
+# Selecting the optimal classifer while selecting features.
 #  Feature selection by binary Bat algorithm.
 import math
 import numpy as np
