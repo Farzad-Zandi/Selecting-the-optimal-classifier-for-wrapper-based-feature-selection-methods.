@@ -13,14 +13,18 @@ https://doi.org/10.53560/PPASA(61-3)848
 http://ppaspk.org/index.php/PPAS-A/article/view/1286
 
 ----------------------------------------
-
+## Description
 Datasets are available in Data folder.
 
 Results are available in Results folder.
 
-To run model follow the bellow steps:
-1. Run BBA to select the optimal classifier.
+## Usage
+1. Run BBA to select the optimal classifier
+   ```sh
+   BBA.py
 2. Run GWO to select the optimal classifier.
+   ```sh
+   GWO.py
 
 ## Citiation
 @article{zandi2024selecting,
@@ -34,7 +38,7 @@ To run model follow the bellow steps:
 }
 
 ## Contact
-For further inquiries, please contact the author:
+For further inquiries, please contact us:
 - Name: Farzad Zandi.
 - Email: [zandi8farzad@gmail.com](zandi8farzad@gmail.com)
 - Email: [zandi_farzad@yahoo.com](zandi_farzad@yahoo.com)
