@@ -20,5 +20,11 @@ To run model follow the bellow steps:
 1. Run BBA to select the optimal classifier.
 2. Run GWO to select the optimal classifier.
 
-
+## Contact
+For further inquiries, please contact the author:
+- Name: Your Name
+- Email: [zandi8farzad@google.com](mailto:your.email@example.com)
+- Email: [zandi_farzad@yahoo.com](mailto:your.email@example.com)
+- Email: [info@zandigroup.ir](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
