@@ -23,8 +23,8 @@ To run model follow the bellow steps:
 ## Contact
 For further inquiries, please contact the author:
 - Name: Your Name
-- Email: [zandi8farzad@google.com](mailto:your.email@example.com)
-- Email: [zandi_farzad@yahoo.com](mailto:your.email@example.com)
-- Email: [info@zandigroup.ir](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [zandi8farzad@gmail.com](zandi8farzad@gmail.com)
+- Email: [zandi_farzad@yahoo.com](zandi_farzad@yahoo.com)
+- Email: [info@zandigroup.ir](info@zandigroup.ir)
+- LinkedIn: [Farzad Zandi](https://www.linkedin.com/in/farzad-zandi-86a37326a/))
 
