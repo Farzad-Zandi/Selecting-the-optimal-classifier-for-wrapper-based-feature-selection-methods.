@@ -22,7 +22,7 @@ To run model follow the bellow steps:
 1. Run BBA to select the optimal classifier.
 2. Run GWO to select the optimal classifier.
 
-## Citing
+## Citiation
 @article{zandi2024selecting,
   title={Selecting the Optimal Classifier for Wrapper-Based Feature Selection Methods},
   author={Zandi, Farzad and Mansouri, Parvaneh and Sheibani, Reza},
@@ -35,7 +35,7 @@ To run model follow the bellow steps:
 
 ## Contact
 For further inquiries, please contact the author:
-- Name: Your Name
+- Name: Farzad Zandi.
 - Email: [zandi8farzad@gmail.com](zandi8farzad@gmail.com)
 - Email: [zandi_farzad@yahoo.com](zandi_farzad@yahoo.com)
 - Email: [info@zandigroup.ir](info@zandigroup.ir)
