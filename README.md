@@ -33,7 +33,7 @@ Results are available in Results folder.
 ```
 ## Contact
 For further inquiries, please contact us:
-- Name: Farzad Zandi.
+- Farzad Zandi.
 - Email: [zandi8farzad@gmail.com](zandi8farzad@gmail.com)
 - Email: [zandi_farzad@yahoo.com](zandi_farzad@yahoo.com)
 - Email: [info@zandigroup.ir](info@zandigroup.ir)
