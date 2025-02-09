@@ -23,7 +23,7 @@ To run model follow the bellow steps:
 2. Run GWO to select the optimal classifier.
 
 ## Citing
-article{zandi2024selecting,
+@article{zandi2024selecting,
   title={Selecting the Optimal Classifier for Wrapper-Based Feature Selection Methods},
   author={Zandi, Farzad and Mansouri, Parvaneh and Sheibani, Reza},
   journal={Proceedings of the Pakistan Academy of Sciences: A. Physical and Computational Sciences},
