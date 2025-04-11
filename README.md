@@ -30,7 +30,7 @@ Results are available in Results folder.
   journal={Proceedings of the Pakistan Academy of Sciences: A. Physical and Computational Sciences},
   volume={61},
   number={3},
-  pages={257--271},
+  pages={257-271},
   year={2024}
 }
 ```
