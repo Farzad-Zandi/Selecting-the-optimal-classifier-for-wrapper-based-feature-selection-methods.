@@ -37,8 +37,8 @@ Results are available in Results folder.
 ## Contact
 For further inquiries, please contact us:
 - Farzad Zandi.
+- Website: [Zandigroup](https://Zandigroup.ir)
+- LinkedIn: [Farzad Zandi](https://www.linkedin.com/in/farzad-zandi-86a37326a/)
+- Email: [info@zandigroup.ir](info@zandigroup.ir)
 - Email: [zandi8farzad@gmail.com](zandi8farzad@gmail.com)
 - Email: [zandi_farzad@yahoo.com](zandi_farzad@yahoo.com)
-- Email: [info@zandigroup.ir](info@zandigroup.ir)
-- Website: [Zandigroup.ir](https://zandigroup.ir)
-- LinkedIn: [Farzad Zandi](https://www.linkedin.com/in/farzad-zandi-86a37326a/)
