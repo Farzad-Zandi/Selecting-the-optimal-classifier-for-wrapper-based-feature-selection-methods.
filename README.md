@@ -1,7 +1,7 @@
 # Selecting the optimal classifier for wrapper-based feature selection methods.
 ![Graphical Abstract](https://github.com/Farzad-Zandi/Selecting-the-optimal-classifier-for-wrapper-based-feature-selection-methods./blob/main/Graphical%20Abstract.png)
 
-![Languages](https://img.shields.io/badge/Languages-Python-brightgreen.svg)  ![Repository](https://img.shields.io/badge/Repository-UniProt-orange.svg)  ![Deployment](https://img.shields.io/badge/Deployment-Github-yellow.svg)  ![Debugging](https://img.shields.io/badge/Debugging-LocalHost-blue.svg)
+![Languages](https://img.shields.io/badge/Languages-Python-brightgreen.svg)  ![Deployment](https://img.shields.io/badge/Deployment-Github-yellow.svg)  ![Debugging](https://img.shields.io/badge/Debugging-LocalHost-blue.svg)
 
 ## Abstract
 <p align="justify">
